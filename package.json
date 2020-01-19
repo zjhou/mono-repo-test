@@ -3,8 +3,18 @@
   "workspaces": [
     "packages/*"
   ],
-  "apps": [],
-  "libs": [],
+  "apps": [
+    {
+      "name": "app",
+      "path": "packages/app"
+    }
+  ],
+  "libs": [
+    {
+      "name": "lib-test",
+      "path": "packages/lib-test"
+    }
+  ],
   "name": "mono-repo-test",
   "devDependencies": {
     "lerna": "^3.13.1"

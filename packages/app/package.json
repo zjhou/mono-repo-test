@@ -1,0 +1,45 @@
+{
+  "name": "@ones-ai/app",
+  "version": "0.0.3-test.0",
+  "dependencies": {
+    "@ones-ai/lib-test": "^0.0.3-test.0",
+    "@ones-ai/ones-app-scripts": "3.3.49",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "antd": "3.26.5",
+    "node-sass": "4.13.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "~3.7.2"
+  },
+  "scripts": {
+    "start": "ones-app-scripts start",
+    "build": "ones-app-scripts build",
+    "test": "ones-app-scripts test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "maintainers": [
+    {
+      "name": "ones"
+    }
+  ]
+}
