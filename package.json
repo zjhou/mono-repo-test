@@ -3,7 +3,12 @@
   "workspaces": [
     "packages/*"
   ],
-  "apps": [],
+  "apps": [
+    {
+      "name": "app",
+      "path": "packages/app"
+    }
+  ],
   "libs": [],
   "name": "mono-repo-test",
   "devDependencies": {
