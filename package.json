@@ -4,5 +4,9 @@
     "packages/*"
   ],
   "apps": [],
-  "libs": []
+  "libs": [],
+  "name": "mono-repo-test",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
 }
