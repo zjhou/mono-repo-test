@@ -1,6 +1,6 @@
 {
   "name": "@ones-ai/app",
-  "version": "0.1.0",
+  "version": "0.0.1-test.0",
   "dependencies": {
     "@ones-ai/ones-app-scripts": "3.3.49",
     "@testing-library/jest-dom": "^4.2.4",
