@@ -1,8 +1,8 @@
 {
   "name": "@ones-ai/app",
-  "version": "0.1.3-test-beta-publish.32+09165a5",
+  "version": "0.1.3",
   "dependencies": {
-    "@ones-ai/lib-test": "0.1.4-test-beta-publish.34+f1ba046",
+    "@ones-ai/lib-test": "0.1.4",
     "@ones-ai/ones-app-scripts": "3.3.49",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
