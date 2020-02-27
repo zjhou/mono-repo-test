@@ -1,6 +1,6 @@
 {
   "name": "@ones-ai/lib-test",
-  "version": "0.1.7-test-yarn-publish.41+3cb54af",
+  "version": "0.1.8-test-yarn-publish.42+04f814d",
   "dependencies": {
     "@ones-ai/ones-lib-scripts": "3.3.51",
     "@testing-library/jest-dom": "^4.2.4",
