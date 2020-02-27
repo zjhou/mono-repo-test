@@ -1,6 +1,6 @@
 {
   "name": "@ones-ai/app",
-  "version": "0.1.6-test-yarn-publish.44+e04371f",
+  "version": "0.1.7-test-yarn-publish.47+cff4d67",
   "dependencies": {
     "@ones-ai/lib-test": "0.1.9-test-yarn-publish.44+e04371f",
     "@ones-ai/ones-app-scripts": "3.3.49",
