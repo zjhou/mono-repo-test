@@ -5,4 +5,3 @@ export default () => {
     <div>Hello, ONES lib</div>
   )
 }
-
